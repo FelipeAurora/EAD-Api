@@ -1,0 +1,24 @@
+{
+  "name": "ead-api",
+  "version": "0.0.1",
+  "description": "Api para ensino a distância",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/FelipeAurora/EAD-Api.git)"
+  },
+  "keywords": [
+    "Plataforma",
+    "EAD",
+    "Canal:",
+    "Programador",
+    "a",
+    "bordo.",
+    "Aula"
+  ],
+  "author": "Felipe Aurora",
+  "license": "MIT"
+}
